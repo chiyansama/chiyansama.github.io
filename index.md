@@ -27,6 +27,6 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=417560780&bvid=BV1LV411H7hW&cid=325070478&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### Support or Contact
+### 最后的话
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+希望大家都能喜欢赤魇！祝大家都开心快乐！看完视频一定要一键三连支持一下呀，小up不易。QAQ
