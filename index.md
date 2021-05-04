@@ -1,32 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chiyansama/chiyansama.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 欢迎来到赤魇的小窝
+你可以在[哔哩哔哩](https://space.bilibili.com/499904421)抓到咱 ~~~
+如果你能访问那个不存在的404那你可以关注我的 [Youtube](https://www.youtube.com/channel/UC_dInC1Q53Vkq5sFU194cIQ) 虽然不一定更新就是了QWQ
+### 这里是基本信息
+你想知道都在这里 （应该吧）
 ```markdown
-Syntax highlighted code block
+基本信息栏
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 物种：狐狸（但是不完全是）应该有一部分狼的基因 （/_ \)
+## 口味：喜欢甜咸口！
+### 爱好： 看人类的梦 QAQ
+#### 想做的事：早日完成实体化！！！
+##### 为啥成为UP主：兴趣爱好！（好耶！）
+###### 有什么梦想：想在百大舞台上实体化！！！
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+如果你想知道咱更多的小秘密，那么可以去看这个 [小文章](https://www.bilibili.com/read/cv10505901).
 
 ### Jekyll Themes
 
